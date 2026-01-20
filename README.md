@@ -15,8 +15,11 @@ This project provides a Python implementation of the
 TOPSIS is a multi-criteria decision-making (MCDM) technique used to rank alternatives based on their distance from the ideal best and ideal worst solutions.
 
 ---
+Project Website
+The TOPSIS project is also deployed as a web application, allowing users to run the TOPSIS method directly through a browser interface.
 
-
+🔗 Live Website: https://drfcsy7wvrrn5khq5fsgx9.streamlit.app/
+---
 ##  Installation (User Manual)
 
 This package requires **Python 3.7 or higher**.
